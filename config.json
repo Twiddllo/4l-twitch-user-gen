@@ -1,0 +1,14 @@
+{
+    "help": {
+
+        "numbers*": "false for check without numbers and true for check with numbers",
+        "while*": "true for check with the bucle (while True:), false for check with the ammount",
+        "ammount*": "number of usernames to check if while is false",
+        "letters*": "amount of letters of usernames"
+    },
+
+    "numbers": false,
+    "while": false,
+    "ammount": 100,
+    "letters": 5
+}5
